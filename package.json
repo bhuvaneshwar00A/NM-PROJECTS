@@ -1,0 +1,16 @@
+{
+  "name": "ibm-nj-ecommerce-cart",
+  "version": "2.0.0",
+  "description": "IBM-NJ E-commerce Cart System using Node.js, Express, and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
+}
